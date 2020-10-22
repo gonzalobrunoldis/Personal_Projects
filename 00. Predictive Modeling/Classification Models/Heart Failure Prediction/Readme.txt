@@ -1,0 +1,1 @@
+In this project I take into account several predictor variables to try and predict if the patient will or will not suffer Heart Failure.
