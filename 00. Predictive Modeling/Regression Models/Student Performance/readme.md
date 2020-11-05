@@ -16,20 +16,28 @@ Given the following information about the passengers:
 - Parental Level of Education: Describes parental's level of education. (Object)
 - Lunch: If student pays full price for lunch or it's reduced (Object)
 - Test Preparation Course: If student completed the test preparation course (Object)
-- Reading Score (int64)
+- Reading Score (int64) 
 - Writing Score (int64)
 - Maths Score (int64)
+
+As we won't have the scores before the students take the exams (obviously), those variables will be used for feature engineering and EDA, but will not be used as input for the regression algorithm. 
 
 We try to predict our target variable (student's score on the exams) with a regression algorithm. We will split our data into train and test, so that we can see if our model performs accordingly with new data. 
 
 The algorithms used to model and fit our data were: Ridge Regression, Lasso Regression, ElasticNet, Decision Tree Regressor, Random Forest Regressor and Gradient Boosting Regressor. To quantify our models I used the metrics of R2, MSE and MAE.  
 
 ## Quick Exploratory Data Analysis Summary
-
+![alt text](https://github.com/gonzalobrunoldis/Personal_Projects/tree/main/00.%20Predictive%20Modeling/Regression%20Models/Student%20Performance/Data/2020-11-05_15h42_22.png?raw=true)
 
 ## Result
 
-The best performing algorithm was .
+The best performing algorithm was Random Forest with an R2 score of 0.5834.
+
+The fact that we did not get a great R2 makes us think that maybe the features did not provide enough information to predict the target variable. Perhaps the variables that are not under the control of the students (such as ethnicity, or parental level of education) do not have as much influence as one would think.
+
+It would be interesting to do an analysis with more variables controlled by the students, such as hours of study, GPA at primary and secondary school, travel time to school, etc.
+
+Thank you for reading!
 
 ### Contact Me
 
