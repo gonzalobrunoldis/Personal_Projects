@@ -1,37 +1,29 @@
-# Titanic Survivors Prediction
+# Fifa Players Supervised Clustering 
 
 ## Quick Intro
 
-This was my first ML project. This is a very beginner-friendly projects, and there are some astounding notebooks uploaded on Kaggle that are very clear and understandable. The aim was to grasp the structure of a Data Science projects, and familirize myself with coding and performing EDA, as well as predicting a target variable.
+This was my first Clustering project, guided by notebooks uploaded on Kaggle. Even though clustering is a technique that is usually used for unsupervised learning projects to detect hidden patterns in data, I decided that, being my first clustering project, it made sense using it in a supervised learning scenario to be able to see if the clustering had performed up to standard.
 
 ## Problem statement
 
-In this analysis, we use data from the Titanic crash in 1912, and try to discover if some people had more chances to survive, and why. Towards the end of the project, we try to use a classification model to try and predict if a person survived with the information provided for every passenger. 
+In this analysis, we used data of the players from the game Fifa 2020, and tried to see if the players that play in the same positions had similar physical attributes. After performing some data preprocessing techniques, we used a clustering model to see if we could see the similarities visually. 
  
 ## Approach
 
-Given the following information about the passengers:
-- Survival:	0 = No, 1 = Yes (binary)
-- Pclass: Ticket class	1 = 1st, 2 = 2nd, 3 = 3rd (int64)
-- Sex	(male or female) (object)
-- Age:	Age in years (float64)	
-- SibSp: # of siblings / spouses aboard the Titanic	(int64)
-- ParCh:	# of parents / children aboard the Titanic (int64)
-- Ticket:	Ticket number (object)	
-- Fare: Passenger fare (float64)
-- Cabin: Cabin number	(object)
-- Embarked:	Port of Embarkation	C = Cherbourg, Q = Queenstown, S = Southampton (object)
+The dataset contained several pieces of information of the player stats: Dribbling, shooting, defending, running speed, stamina, goalkeeping, age, market value, etc. On the same page, it also had thousand of players (observations).
 
-We try to predict our target variable (if the passenger will or will not survive the crash) with a classification algorithm. We will split our data into train and test, so that we can see if our model performs accordingly with new data that was not used to train it and validate if it can be used with new observations. 
+First, we chose the top 65 players with the highest ratings for visualization's sake. Afterwards, as we had a dataset with high dimensionality, we applied PCA to reduce the dimensionality of the data, and see if we have some features that are more relevant than others. After that, we moved forward to the clustering algorithm.
 
-The algorithms used to model and fit our data were: Naive Bayes, KNearerstNeighbors, Logistic Regression, Decision Tree and Random Forest. To quantify our models I used the metrics of model accuracy and confusion matrix as we want to know how well our model predicts the outcome using the known features.  
+The clustering algorithms applied were: Kmeans and DBSCAN. As I pointed out at the introduction, the players of different positions were used as hue, to be able to tell how they were distributed on the graph.  
 
-## Quick Exploratory Data Analysis Summary
+## PCA quick overview
 
 
 ## Result
 
-The best performing algorithm was Logistic Regression with a Model Accuracy Score: 0.8212.
+The players picked were quite accurately clustered by position, which means that they had some distinguishable attributes that allowed our clustering algorithm to perform astoundingly good. 
+
+Thank you for reading!
 
 ### Contact Me
 
