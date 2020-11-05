@@ -28,6 +28,22 @@ The algorithms used to model and fit our data were: Naive Bayes, KNearerstNeighb
 
 ## Quick Exploratory Data Analysis Summary
 
+### Correlation Matrix
+![](Data/Images/2020-11-05_17h24_37.png)
+
+### Target Variable vs Features 
+![](Data/Images/2020-11-05_17h24_44.png)
+
+![](Data/Images/2020-11-05_17h24_54.png)
+
+![](Data/Images/2020-11-05_17h25_05.png)
+
+![](Data/Images/2020-11-05_17h25_13.png)
+
+![](Data/Images/2020-11-05_17h25_17.png)
+
+![](Data/Images/2020-11-05_17h25_47.png)
+
 
 ## Result
 
