@@ -31,6 +31,29 @@ The algorithms used to model and fit our data were: Naive Bayes, KNeighbors, Dec
 
 ## Some Exploratory Data Analysis
 
+### Correlation Matrix
+
+![](Images/2020-11-05_17h07_21.png)
+
+### Target Variable Distribution by Age
+
+![](Images/2020-11-05_17h07_36.png)
+
+### Target Variable Distribution by Time in Hospital
+
+![](Images/2020-11-05_17h07_41.png)
+
+### Target Variable vs Features
+
+![](Images/2020-11-05_17h07_47.png)
+
+![](Images/2020-11-05_17h08_03.png)
+
+![](Images/2020-11-05_17h08_10.png)
+
+![](Images/2020-11-05_17h08_23.png)
+
+![](Images/2020-11-05_17h08_38.png)
 
 
 ## Result
