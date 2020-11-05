@@ -27,6 +27,38 @@ We try to predict our target variable (student's score on the exams) with a regr
 The algorithms used to model and fit our data were: Ridge Regression, Lasso Regression, ElasticNet, Decision Tree Regressor, Random Forest Regressor and Gradient Boosting Regressor. To quantify our models I used the metrics of R2, MSE and MAE.  
 
 ## Quick Exploratory Data Analysis Summary
+### The distribution of the main components of the target variables:
+
+![](Data/Images/2020-11-05_16h15_25.png)
+
+### Grouping features to see their influence on the target variable:
+
+![](Data/Images/2020-11-05_16h17_14.png)
+
+![](Data/Images/2020-11-05_16h17_17.png)
+
+![](Data/Images/2020-11-05_16h17_22.png)
+
+![](Data/Images/2020-11-05_16h17_31.png)
+
+![](Data/Images/2020-11-05_16h17_34.png)
+
+
+
+### Distribution of students that completed the test preparation course sorted by parents level of education:
+
+![](Data/Images/2020-11-05_16h18_44.png)
+
+
+### Overall Test Scores sorted by other features:
+![](Data/Images/2020-11-05_16h20_00.png)
+
+
+
+
+![](Data/Images/2020-11-05_16h20_04.png)
+
+
 
 
 ## Result
