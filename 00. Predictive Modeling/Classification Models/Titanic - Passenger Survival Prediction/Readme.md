@@ -38,11 +38,13 @@ The algorithms used to model and fit our data were: Naive Bayes, KNearerstNeighb
 
 ![](Data/Images/2020-11-05_17h25_05.png)
 
+![](Data/Images/2020-11-05_17h25_47.png)
+
+### GroupBy SibSp and ParCh Analysis
+
 ![](Data/Images/2020-11-05_17h25_13.png)
 
 ![](Data/Images/2020-11-05_17h25_17.png)
-
-![](Data/Images/2020-11-05_17h25_47.png)
 
 
 ## Result
