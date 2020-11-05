@@ -51,6 +51,8 @@ The algorithms used to model and fit our data were: Naive Bayes, KNearerstNeighb
 
 The best performing algorithm was Logistic Regression with a Model Accuracy Score: 0.8212.
 
+Thank you for reading!
+
 ### Contact Me
 
 | Contact Method |  |
