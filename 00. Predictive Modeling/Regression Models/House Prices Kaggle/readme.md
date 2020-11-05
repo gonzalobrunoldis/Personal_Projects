@@ -18,6 +18,25 @@ To model our data, we split our data into train and test to be able to verify th
 
 ## Quick Exploratory Data Analysis Summary
 
+### Correlation Matrix:
+
+![](Data/Images/2020-11-05_16h54_16.png)
+
+### Target Variable (SalePrice) vs Multiple features that had high correlation:
+
+![](Data/Images/2020-11-05_16h54_28.png)
+
+![](Data/Images/2020-11-05_16h54_32.png)
+
+![](Data/Images/2020-11-05_16h54_35.png)
+
+![](Data/Images/2020-11-05_16h54_40.png)
+
+![](Data/Images/2020-11-05_16h54_44.png)
+
+![](Data/Images/2020-11-05_16h55_01.png)
+
+![](Data/Images/2020-11-05_16h55_06.png)
 
 ## Result
 
