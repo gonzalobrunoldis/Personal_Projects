@@ -2,7 +2,7 @@
 
 ## Quick Intro
 
-This was my first ML project. This is a very beginner-friendly projects, and there are some astounding notebooks uploaded on Kaggle that are very clear and understandable. The aim was to grasp the structure of a Data Science projects, and familirize myself with coding and performing EDA, as well as predicting a target variable.
+This was my first ML project. This is a very beginner-friendly project, and there are some astounding notebooks uploaded on Kaggle that are very clear and understandable. The aim was to grasp the structure of a Data Science projects, and familirize myself with coding and performing EDA, as well as predicting a target variable.
 
 ## Problem statement
 
