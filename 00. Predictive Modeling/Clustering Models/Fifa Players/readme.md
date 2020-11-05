@@ -16,10 +16,13 @@ First, we chose the top 65 players with the highest ratings for visualization's 
 
 The clustering algorithms applied were: Kmeans and DBSCAN. As I pointed out at the introduction, the players of different positions were used as hue, to be able to tell how they were distributed on the graph.  
 
-## PCA quick overview
-
-
 ## Result
+
+### Kmeans Clustering
+![](Data/Images/2020-11-05_17h31_30.png)
+
+### DBSCAN Clustering
+![](Data/Images/2020-11-05_17h34_05.png)
 
 The players picked were quite accurately clustered by position, which means that they had some distinguishable attributes that allowed our clustering algorithm to perform astoundingly good. 
 
