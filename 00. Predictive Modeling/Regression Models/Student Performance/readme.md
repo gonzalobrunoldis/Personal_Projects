@@ -27,7 +27,7 @@ We try to predict our target variable (student's score on the exams) with a regr
 The algorithms used to model and fit our data were: Ridge Regression, Lasso Regression, ElasticNet, Decision Tree Regressor, Random Forest Regressor and Gradient Boosting Regressor. To quantify our models I used the metrics of R2, MSE and MAE.  
 
 ## Quick Exploratory Data Analysis Summary
-![]https://github.com/gonzalobrunoldis/Personal_Projects/tree/main/00.%20Predictive%20Modeling/Regression%20Models/Student%20Performance/Data/2020-11-05_15h42_22.jpg?raw=true
+![](https://github.com/gonzalobrunoldis/Personal_Projects/tree/main/00.%20Predictive%20Modeling/Regression%20Models/Student%20Performance/Data/2020-11-05_15h42_22.jpg?raw=true)
 
 ## Result
 
