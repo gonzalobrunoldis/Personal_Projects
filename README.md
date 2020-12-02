@@ -2,7 +2,7 @@
 
 ## Index
 
-This repository holds all of my personal projects that I've since I started practising Data Science. Currently they're binned in two different categories:
+This repository holds all of my personal projects that I've worked on since I started practising Data Science. Currently they're binned in two different categories:
 
 1. [Predictive Modeling - Classification & Regression ML Projects](https://github.com/gonzalobrunoldis/Personal_Projects/tree/main/00.%20Predictive%20Modeling)
     - [Predicting Discrete Variables - Classification Models](https://github.com/gonzalobrunoldis/Personal_Projects/tree/main/00.%20Predictive%20Modeling/Classification%20Models)
