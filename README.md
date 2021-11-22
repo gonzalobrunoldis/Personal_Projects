@@ -6,7 +6,7 @@ This repository holds all of my personal projects that I've worked on since I st
 
 1. [SQL Projects]
 2. [Dashboard creation + Reporting]
-3. [Data processing + insight detection projects]
+3. [Data processing + insight detection projects](https://github.com/gonzalobrunoldis/Personal_Projects/tree/main/Data%20Processing%20%2B%20Insight%20Detection%20Projects)
 4. [Predictive Modeling - Classification & Regression ML Projects](https://github.com/gonzalobrunoldis/Personal_Projects/tree/main/00.%20Predictive%20Modeling)
     - [Predicting Discrete Variables - Classification Models](https://github.com/gonzalobrunoldis/Personal_Projects/tree/main/00.%20Predictive%20Modeling/Classification%20Models)
     - [Predicting Continuous Variables - Regression Models](https://github.com/gonzalobrunoldis/Personal_Projects/tree/main/00.%20Predictive%20Modeling/Regression%20Models)
