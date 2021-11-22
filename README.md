@@ -2,13 +2,16 @@
 
 ## Index
 
-This repository holds all of my personal projects that I've worked on since I started practising Data Science. Currently they're binned in two different categories:
+This repository holds all of my personal projects that I've worked on since I started practising Data oriented journey. Currently they're binned in three different categories:
 
-1. [Predictive Modeling - Classification & Regression ML Projects](https://github.com/gonzalobrunoldis/Personal_Projects/tree/main/00.%20Predictive%20Modeling)
+1. [SQL Projects]
+2. [Dashboard creation + Reporting]
+3. [Data processing + insight detection projects]
+4. [Predictive Modeling - Classification & Regression ML Projects](https://github.com/gonzalobrunoldis/Personal_Projects/tree/main/00.%20Predictive%20Modeling)
     - [Predicting Discrete Variables - Classification Models](https://github.com/gonzalobrunoldis/Personal_Projects/tree/main/00.%20Predictive%20Modeling/Classification%20Models)
     - [Predicting Continuous Variables - Regression Models](https://github.com/gonzalobrunoldis/Personal_Projects/tree/main/00.%20Predictive%20Modeling/Regression%20Models)
     - [Discovering Hidden Patterns in Data (Segmentation Projects) - Clustering Models](https://github.com/gonzalobrunoldis/Personal_Projects/tree/main/00.%20Predictive%20Modeling/Clustering%20Models/Fifa%20Players)
-2. [Deep Learning Projects (Work in progress)]()
+5. [Deep Learning Projects (Work in progress)]()
 
 Each category has their own variety of projects and should be accompanied by some form of documentation. 
 
