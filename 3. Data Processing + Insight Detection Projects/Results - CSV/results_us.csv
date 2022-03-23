@@ -1,0 +1,45 @@
+,skill,count,mentions_percent
+24,excel,1542,35.41
+3,reporting,1296,29.76
+33,industry,978,22.46
+19,sql,953,21.88
+27,aws,521,11.96
+17,python,434,9.97
+14,programming,329,7.55
+4,power bi,320,7.35
+0,data visualization,251,5.76
+18,sas,193,4.43
+25,etl,193,4.43
+30,google,187,4.29
+40,pipeline,155,3.56
+26,azure,154,3.54
+31,oracle,152,3.49
+21,machine learning,125,2.87
+32,domain,121,2.78
+23,microsoft excel,112,2.57
+5,powerbi,112,2.57
+8,qlik,91,2.09
+16, r ,83,1.91
+7,looker,64,1.47
+35,spark,61,1.4
+13,data preparation,35,0.8
+12,data prep,35,0.8
+39,dbt,35,0.8
+11,data cleaning,25,0.57
+42,hadoop,22,0.51
+22, ml ,17,0.39
+28,google cloud platform,13,0.3
+15,matlab,12,0.28
+29,gcp,10,0.23
+2,visualizing data,9,0.21
+9,google data studio,8,0.18
+37,databricks,5,0.11
+20,nosql,4,0.09
+34,apache,3,0.07
+10,gds,1,0.02
+38,airflow,1,0.02
+43,pig,1,0.02
+1,data viz,0,0.0
+36,dataproc,0,0.0
+6,tableus,0,0.0
+41,scalding,0,0.0
