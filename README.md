@@ -32,3 +32,4 @@ I am now transitioning to applied Data Science, and I am doing my personal proje
 | Professional Email | gonzalobrunoldis@gmail.com |
 | LinkedIn | https://www.linkedin.com/in/gonzalobrunoldi/ |
 
+This was last updated on April 27th, 2024
